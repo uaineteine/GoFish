@@ -1,0 +1,21 @@
+Map print design:
+
+
+                                     player
+                                   player deck
+
+
+
+
+
+
+
+player   player deck                 deck                  player deck     player
+
+
+
+
+
+
+                                  player deck
+                                     player
